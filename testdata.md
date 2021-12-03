@@ -6,4 +6,6 @@ CI url
 ``` bash
 ci.com
 ```
-![](Screenshot_1.png)
+## Output
+
+![made by click2cloud](Screenshot_1.png)
