@@ -9,3 +9,6 @@ ci.com
 ## Output
 
 ![made by click2cloud](Screenshot_1.png)
+## Output
+
+![made by click2cloud](Screenshot_1.png)
